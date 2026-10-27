@@ -1,0 +1,14 @@
+# secrets
+.env
+Read.txt
+
+# generated data / local artefacts
+output/
+.cache/
+.playwright-mcp/
+*.log
+
+# python
+__pycache__/
+*.pyc
+.venv/
